@@ -8,7 +8,7 @@ This project shows how to build an agentic workflow with multiple steps.
 
 ## Workflow Steps
 
-![Workflow](/assets/patient_case_summary.png)
+![Workflow](./assets/patient_case_summary.png)
 
 1. 
 
